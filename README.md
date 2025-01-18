@@ -18,7 +18,7 @@ Package Management: npm
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/ai-image-generator.git
+git clone [https://github.com/your-username/ai-image-generator.git]
 cd ai-image-generator
 ```
 2. Install Dependencies
